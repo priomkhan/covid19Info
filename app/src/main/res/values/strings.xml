@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Covid-19 Info</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">WHO News Update</string>
+    <string name="title_notifications">About</string>
+    <string name="flagImage">Country Flag Image</string>
+    <string name="fork_count_head">C</string>
+    <string name="star_count_head">D</string>
+    <string name="rHeader">R</string>
+    <string name="dHeader">D</string>
+    <string name="cHeader">C</string>
+    <string name="giCountryHeader">Country Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dCountryName">Country Name</string>
+    <string name="graph_header">Graph Header</string>
+    <string name="last_30_days">Last 30 Days</string>
+    <string name="provincial_data">Provincial Data</string>
+    <string name="fragment_detailed_header">Country Details</string>
+    <string name="rss_title">RSS Title</string>
+    <string name="PubUpdateDate">2020-04-26 02:00:00</string>
+    <string name="RssContent">Content</string>
+    <string name="aboutBody">"2019 – 2020 : Millions of people affected by the Novel Corona virus Covid-19 around the world. This app is a small initiative to keep track of those people who lost their life or affected by it. "</string>
+    <string name="creditsBody">"This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source. "</string>
+    <string name="project1UsesInfo">Covid-19 Global, Country and Historical Data</string>
+    <string name="projectCreditHeader1">Novel COVID API</string>
+    <string name="projectCreditUrl1">https://corona.lmao.ninja/</string>
+    <string name="project2UsesInfo">WHO (World Health Organization) : News Feeds</string>
+    <string name="projectCreditHeader2">WHO news via RSS</string>
+    <string name="projectCreditUrl2">" https://www.who.int/rss-feeds/news-english.xml"</string>
+    <string name="project3UsesInfo">RSS to JSON Converter by Simon Breiter</string>
+    <string name="projectCreditHeader3">RSS to JSON Converter</string>
+    <string name="projectCreditUrl3">https://rsstojson.com/</string>
+    <string name="not_found">Not Found</string>
+</resources>

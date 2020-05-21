@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.priomkhan.covid_19info.ui.home.HomeViewModel"/>
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:focusable="true"
+        android:padding="16dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/dFlagImage"
+                        android:layout_width="100dp"
+                        android:layout_height="80dp"
+                        android:layout_margin="8dp"
+                        android:layout_marginTop="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:contentDescription="@string/flagImage"
+                        android:scaleType="fitCenter"
+                        app:flagImage="@{viewModel.selectedCountry.countryInfo.flag}"
+                        tools:ignore="HardcodedText"
+                        tools:src="@drawable/ic_flag_blue_24dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/dCountryName"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            app:countryName="@{viewModel.selectedCountry.country}"
+                            tools:text="@string/dCountryName" />
+
+                        <TextView
+                            android:id="@+id/dConfirmedCase"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            app:confirmedCase="@{viewModel.selectedCountry.cases}"
+                            tools:text="0" />
+
+                        <TextView
+                            android:id="@+id/dDeaths"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            app:deaths="@{viewModel.selectedCountry.deaths}"
+                            tools:text="0" />
+
+                        <TextView
+                            android:id="@+id/dRecovered"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            app:recovered="@{viewModel.selectedCountry.recovered}"
+                            tools:text="0" />
+
+                        <TextView
+                            android:id="@+id/dTodayCases"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            app:todayCases="@{viewModel.selectedCountry.todayCases}"
+                            tools:text="0" />
+
+                        <TextView
+                            android:id="@+id/dTodayDeaths"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            app:todayDeaths="@{viewModel.selectedCountry.todayDeaths}"
+                            tools:text="0" />
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/dGraphHeader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:background="#7ABEC8"
+                    android:contentDescription="@string/graph_header"
+                    android:text="@string/last_30_days"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                    android:textColor="#050000" />
+
+                <com.jjoe64.graphview.GraphView
+
+                    android:id="@+id/caseGraph"
+
+                    android:layout_width="match_parent"
+
+                    android:layout_height="200dip"
+                    tools:focusableInTouchMode="true" />
+
+                <com.jjoe64.graphview.GraphView
+
+                    android:id="@+id/deathGraph"
+
+                    android:layout_width="match_parent"
+
+                    android:layout_height="200dip"
+                    tools:focusableInTouchMode="true" />
+
+                <TextView
+                    android:id="@+id/dGraphHeader2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="4dp"
+                    android:background="#7ABEC8"
+                    android:contentDescription="@string/graph_header"
+                    android:text="@string/provincial_data"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                    android:textColor="#050000" />
+
+                <TextView
+                    android:id="@+id/txtProvinceinfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/not_found" />
+
+            </LinearLayout>
+        </ScrollView>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>
