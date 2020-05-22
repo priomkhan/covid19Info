@@ -9,7 +9,7 @@ Simple Graph shows last 30 days situation.
 WHO's News Updates.
 No Sign-up needed.
 (More features are coming)
-
+![image](https://drive.google.com/uc?export=view&id=103r_hs9Ld_-T5FJGFFg6FlpBfrEgfVaf)
 
 Download Apk: https://drive.google.com/open?id=1sQC8Rw8WhTvKQbDta36kL3qRU2VSFZE1
 
