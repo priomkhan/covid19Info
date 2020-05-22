@@ -10,7 +10,6 @@ WHO's News Updates.
 No Sign-up needed.
 (More features are coming)
 
-
 Download Apk: https://drive.google.com/open?id=1sQC8Rw8WhTvKQbDta36kL3qRU2VSFZE1
 
 How to Run:
