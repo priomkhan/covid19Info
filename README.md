@@ -18,10 +18,10 @@ How to Run:
 2) Select preferred country to check current covid-19 info.
 3) tap on the info to see the details
 
-<a href="url"><img src="https://drive.google.com/open?id=1RlR0eRjkqfq1iQpdmHvA5k8hKVs-i0pF" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/open?id=1_4m959xMaeKvRqZpsMOOzlFRI3kf2if5" align="left" height="512" width="300" ></a>
 
-<a href="url"><img src="https://drive.google.com/open?id=1ABK5rQyCg_mHJagUumWCmXO9Kxcrl_0L" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/open?id=1GRuwKb48KkI2yV7bqHMzp1zpHjcofyhJ" align="left" height="512" width="300" ></a>
 
-<a href="url"><img src="https://drive.google.com/open?id=1HGTRoMM9exifRZp8mFe4MyiMqdk_fWp1" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/open?id=1cqbL3ozBV7deihKP831HqEB9MhPDg39x" align="left" height="512" width="300" ></a>
 
-<a href="url"><img src="https://drive.google.com/open?id=1tkPXgV10m0WZpM2qzjTVEONjZ-dKspAk" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/open?id=1QlLIDkT7xKSMH9BLWXu9uoYRfKzfGaRh" align="left" height="512" width="300" ></a>
