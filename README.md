@@ -11,8 +11,6 @@ No Sign-up needed.
 (More features are coming)
 
 
-![image](https://drive.google.com/open?id=1_4m959xMaeKvRqZpsMOOzlFRI3kf2if5)
-
 Download Apk: https://drive.google.com/open?id=1sQC8Rw8WhTvKQbDta36kL3qRU2VSFZE1
 
 How to Run:
@@ -20,10 +18,10 @@ How to Run:
 2) Select preferred country to check current covid-19 info.
 3) tap on the info to see the details
 <p>
-<a href="url"><img src="https://drive.google.com/open?id=1_4m959xMaeKvRqZpsMOOzlFRI3kf2if5" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/uc?export=view&id=1_4m959xMaeKvRqZpsMOOzlFRI3kf2if5" align="left" height="512" width="300" ></a>
 </p>
-<a href="url"><img src="https://drive.google.com/open?id=1GRuwKb48KkI2yV7bqHMzp1zpHjcofyhJ" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/uc?export=view&id=1GRuwKb48KkI2yV7bqHMzp1zpHjcofyhJ" align="left" height="512" width="300" ></a>
 
-<a href="url"><img src="https://drive.google.com/open?id=1cqbL3ozBV7deihKP831HqEB9MhPDg39x" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/uc?export=view&id=1cqbL3ozBV7deihKP831HqEB9MhPDg39x" align="left" height="512" width="300" ></a>
 
-<a href="url"><img src="https://drive.google.com/open?id=1QlLIDkT7xKSMH9BLWXu9uoYRfKzfGaRh" align="left" height="512" width="300" ></a>
+<a href="url"><img src="https://drive.google.com/uc?export=view&id=1QlLIDkT7xKSMH9BLWXu9uoYRfKzfGaRh" align="left" height="512" width="300" ></a>
