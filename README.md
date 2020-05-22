@@ -11,7 +11,7 @@ No Sign-up needed.
 (More features are coming)
 
 
-![image](https://drive.google.com/uc?export=view&id=103r_hs9Ld_-T5FJGFFg6FlpBfrEgfVaf)
+![image](https://drive.google.com/open?id=1_4m959xMaeKvRqZpsMOOzlFRI3kf2if5)
 
 Download Apk: https://drive.google.com/open?id=1sQC8Rw8WhTvKQbDta36kL3qRU2VSFZE1
 
